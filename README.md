@@ -99,13 +99,8 @@ The model integrates multiple geospatial and environmental datasets:
 
 ## Contributors
 
-Your Name
-
-## License
-
-MIT License
+Pratosh Karthikeyan
 
 ## Contact
 
-**Email**: your.email@example.com  
-**GitHub**: https://github.com/yourusername/wildfire-forecasting
+**Email**: pratosh2002@gmail.com 
